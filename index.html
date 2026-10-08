@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="icon" href="data:,">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<!-- Home-screen launch (iPhone Safari has no page fullscreen): no browser bars. -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="skate3">
+<link rel="manifest" href="manifest.webmanifest">
+<title>skate3</title>
+<style>
+  :root { color-scheme: dark; --bg: #0b0f14; --fg: #e6edf3; --muted: #8b98a5; --accent: #3fb6c4; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--fg);
+    font: 14px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif; overflow: hidden;
+    /* The game view never pans, zooms or selects text on touch screens. */
+    touch-action: none; overscroll-behavior: none; -webkit-user-select: none; user-select: none;
+    -webkit-touch-callout: none; -webkit-tap-highlight-color: transparent; }
+  #hint { position: fixed; left: 50%; top: 50%; transform: translate(-50%, -50%); z-index: 5; max-width: min(420px, 90vw);
+    background: #0b0f14ee; border: 1px solid #2d3a47; border-radius: 8px; padding: 14px 16px; display: none; }
+  #game { position: fixed; inset: 0; }
+  #bevy { width: 100%; height: 100%; display: block; outline: none; }
+  #overlay { position: fixed; inset: 0; z-index: 20; display: flex; flex-direction: column; background: #050708; }
+  .loading-header { display:flex; align-items:center; justify-content:space-between; gap:24px; padding:24px 6vw; background:#000; }
+  .loading-brand { font-size:32px; font-weight:900; letter-spacing:-2px; }
+  .loading-brand span { display:inline-block; margin-left:14px; padding-left:14px; border-left:1px solid #28343c; font-size:12px; letter-spacing:3px; color:#7d9dad; vertical-align:middle; }
+  .loading-note { margin:0; color:#7d9dad; font-size:12px; }
+  #panel { flex:1; min-height:0; padding:8vh 6vw 6vh; display:flex; flex-direction:column; position:relative; overflow:auto;
+    background:repeating-linear-gradient(75deg,transparent 0 110px,#ffffff06 110px 158px),radial-gradient(ellipse at 75% 35%,#15364b 0,#081923 58%,#070d11 100%); }
+  .loading-eyebrow { color:#38c3ff; font-size:14px; font-weight:900; letter-spacing:5px; margin:0 0 20px; }
+  #loading-destination { font-size:clamp(38px,7vw,96px); line-height:1; letter-spacing:-3px; font-weight:900; text-transform:uppercase; margin:0; max-width:95%; overflow-wrap:anywhere; }
+  .heading-line { width:min(300px,45vw); height:3px; background:linear-gradient(90deg,#38c3ff,transparent); margin:32px 0; }
+  #help { margin-top:auto; width:min(530px,100%); box-sizing:border-box; background:#000b; border-left:3px solid #38c3ff; padding:18px 22px; }
+  .tip-label { color:#38c3ff; letter-spacing:3px; font-weight:900; font-size:12px; margin:0 0 9px; }
+  .tip-copy { font-size:clamp(15px,1.6vw,21px); font-weight:750; margin:0; }
+  .loading-footer { background:#000; padding:26px 6vw 32px; display:flex; align-items:center; gap:4vw; }
+  .loading-progress { flex:1; min-width:0; }
+  #status { color:#a5c3d3; min-height:1.4em; font-size:13px; white-space:pre-wrap; }
+  #status.error { color:#ff8c85; }
+  .bar { height:3px; background:#11212a; overflow:hidden; margin-top:12px; }
+  .bar > div { height:100%; width:0; background:linear-gradient(90deg,#20a9ed,#b8edff); transition:width .15s; }
+  .loading-mark { display:flex; align-items:center; gap:18px; color:#e5ebee; font-weight:900; font-size:22px; letter-spacing:4px; }
+  .loading-board { width:64px; height:38px; overflow:visible; animation:board-spin 1.35s linear infinite; transform-origin:center; }
+  @keyframes board-spin { from { transform:perspective(180px) rotateX(20deg) rotateY(0deg) rotateZ(-20deg); } to { transform:perspective(180px) rotateX(20deg) rotateY(360deg) rotateZ(-20deg); } }
+  #overlay[data-error="true"] .loading-board { animation-play-state:paused; }
+  #lastcrash { display:none; }
+  @media(max-width:600px) { .loading-header {padding:16px 6vw;} .loading-note {display:none;} .loading-brand {font-size:27px;} .loading-brand span {font-size:10px;} #panel {padding-top:6vh;} .loading-footer {padding:22px 6vw;} .loading-mark {font-size:0;gap:0;} .loading-board {width:48px;} #loading-destination {letter-spacing:-1px;} }
+  @media(max-height:500px) { #panel {padding-top:22px;padding-bottom:20px;} .loading-eyebrow {margin-bottom:10px;} #loading-destination {font-size:40px;} .heading-line {margin:15px 0;} #help {padding:10px 16px;} .loading-header {padding-top:12px;padding-bottom:12px;} .loading-footer {padding-top:14px;padding-bottom:14px;} }
+  @media(prefers-reduced-motion:reduce) { .loading-board {animation-duration:4s;} .bar > div {transition:none;} }
+  #mapbar { position: fixed; bottom: 8px; right: 8px; z-index: 3; display: flex; gap: 6px; align-items: center;
+    background: #0b0f14cc; padding: 4px 8px; border-radius: 6px; font-size: 12px; }
+  button { background: #1c2530; color: var(--fg); border: 1px solid #2d3a47; border-radius: 4px; padding: 2px 8px; cursor: pointer; font: inherit; }
+  button:hover { border-color: var(--accent); }
+  :fullscreen #mapbar { opacity: 0; transition: opacity .3s; }
+  :fullscreen #mapbar:hover { opacity: 1; }
+  select { background: #1c2530; color: var(--fg); border: 1px solid #2d3a47; border-radius: 4px; padding: 2px 4px; }
+
+</style>
+</head>
+<body>
+<div id="game"><canvas id="bevy" tabindex="0"></canvas></div>
+<div id="mapbar"><label for="map">Map</label><select id="map"></select>
+  <button id="fullscreen" type="button" title="Fullscreen (F11 also works)">Fullscreen</button></div>
+<div id="hint"></div>
+<div id="overlay" aria-label="Game loading screen">
+  <header class="loading-header"><div class="loading-brand">skate3<span>FAN GAME</span></div><p class="loading-note">The first load takes longer. Your next session loads from cache.</p></header>
+  <main id="panel">
+    <p class="loading-eyebrow">NOW HEADING TO</p><h1 id="loading-destination">SKATE. 3</h1><div class="heading-line"></div>
+    <aside id="help"><p class="tip-label">SKATE TIP</p><p class="tip-copy">Use WASD to steer and the arrow keys to flick tricks. Press Enter to open the game menu.</p></aside>
+  </main>
+  <footer class="loading-footer">
+    <div class="loading-progress"><div id="status" role="status" aria-live="polite">Starting...</div><div class="bar" role="progressbar" aria-label="Game loading" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><div id="progress"></div></div></div>
+    <div class="loading-mark"><span id="loading-label">LOADING</span><svg class="loading-board" viewBox="0 0 100 48" aria-hidden="true"><path d="M17 11C2 11 2 31 17 31H83C98 31 98 11 83 11Z" fill="#101b23" stroke="#e3f4fc" stroke-width="2.5"/><path d="M19 16H81" stroke="#39c4ff" stroke-width="2"/><path d="M25 31V38M75 31V38" stroke="#a2b9c8" stroke-width="3"/><path d="M18 36H32M68 36H82" stroke="#a2b9c8" stroke-width="3"/><circle cx="19" cy="39" r="4" fill="#e9f2f7"/><circle cx="31" cy="39" r="4" fill="#e9f2f7"/><circle cx="69" cy="39" r="4" fill="#e9f2f7"/><circle cx="81" cy="39" r="4" fill="#e9f2f7"/></svg></div>
+  </footer>
+</div>
+<script type="module" src="./loader.js?v=reference-art-2"></script>
+<script type="module" src="./touch.js?v=skating-only-1"></script>
+</body>
+</html>

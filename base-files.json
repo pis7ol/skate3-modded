@@ -1,0 +1,860 @@
+{
+  "origin": "https://skate3-modded.pis7ol.chatgpt.site",
+  "files": [
+    {
+      "path": "pack.json",
+      "sha256": "0430936c7b98ac7180ae53e08852d816558036e1d00d53a19f8223a20e132fd5",
+      "size": 2490
+    },
+    {
+      "path": "SimpsonsDowntown-CREDITS.txt",
+      "sha256": "04103f2b0d27822af0094a6f010b7db2666188d70aadbfd4986101e1fe70bd82",
+      "size": 457
+    },
+    {
+      "path": "index.html",
+      "sha256": "cf7fec51827ba8c1ec4bc27c91c74d0fa3b9cfbe26c336ff269ba4d7ab2287c8",
+      "size": 3937
+    },
+    {
+      "path": "Spider-Man-CREDITS.txt",
+      "sha256": "8ca740eae56df2a26a687ce25f5137351d8c59cd67a131babfd605381ed927e5",
+      "size": 322
+    },
+    {
+      "path": "core.pack.part2",
+      "sha256": "d4df653578327cf355f66e3dccdc62081ff21695866142f04ff0732ae47a5f2c",
+      "size": 20971520
+    },
+    {
+      "path": "characters.json",
+      "sha256": "fdb7ee9afef699f35011610375bf72ada2604f927482a6fc720d75bbf89e9c4b",
+      "size": 15197
+    },
+    {
+      "path": "Springfield-CREDITS.txt",
+      "sha256": "834f88ebbf1d751aecda8bf483f3380afc4c1f7a072d9d259c6a80d3cc1169c0",
+      "size": 402
+    },
+    {
+      "path": "core.pack.part4",
+      "sha256": "5c4295f86eedf7d026c627cbf2038e6c08f3f1696b2078cea04391303accb67d",
+      "size": 4931357
+    },
+    {
+      "path": "core.pack.part3",
+      "sha256": "5556c1f4a8664fcad2416d40850516bbb434f1e18f69ebac3e1fb1d1b5c4619d",
+      "size": 20971520
+    },
+    {
+      "path": "skate3rust_bg.wasm.part2.gz",
+      "sha256": "5542cd6e04c792f53cca388639931462b323589a36de187ae2f12d9a14982301",
+      "size": 2581573
+    },
+    {
+      "path": "skate3rust_bg.wasm.part1.gz",
+      "sha256": "a71afced318a1f144a121e097afa8a066050db8fbff2c21ea15f667f79c8c222",
+      "size": 3989359
+    },
+    {
+      "path": "characters.js",
+      "sha256": "67f0a62b349096ca6040cdca96051b5b24d67a8de720d907a56dc67fb07fc20b",
+      "size": 14822
+    },
+    {
+      "path": "skate3rust_bg.wasm.part0.gz",
+      "sha256": "52f9d6d816f7c420dd433ce1e65257352619db6258e77e16b96e1c76a000a109",
+      "size": 5474281
+    },
+    {
+      "path": "character-scale.js",
+      "sha256": "f3b358e509f1019c6967ae182725cbd4e82b654e288f07c01cf5e6bd4f26a3fd",
+      "size": 2198
+    },
+    {
+      "path": "core.pack.part1",
+      "sha256": "e592c7e91f3624053c6a0575c4abc4e340ea7d62ebebc537c8611f0b6045b287",
+      "size": 20971520
+    },
+    {
+      "path": "skate3rust.js",
+      "sha256": "6929ce761c604b0c020700a338aa510d73f2c53fa7707c5def93be7c7f09c5e0",
+      "size": 170783
+    },
+    {
+      "path": "core.pack.part0",
+      "sha256": "88a5117a296e6eb71f331c52a4a3b79c6677ef54283aae2dc6f4bd7dc415fdec",
+      "size": 20971520
+    },
+    {
+      "path": "manifest.webmanifest",
+      "sha256": "471b53d9530bfa75ee2283f8113f93ab48463b85fab539c3b3a866883daf180e",
+      "size": 205
+    },
+    {
+      "path": "characters-CREDITS.txt",
+      "sha256": "0783ba08033ac781d71f23d8f91d0290d4aa4812909226d52f62bf409db8e4bb",
+      "size": 3041
+    },
+    {
+      "path": "touch.js",
+      "sha256": "0823e52a087acba9747fbed788b574ae8d58a6aaac590ea859f64132c9399431",
+      "size": 9803
+    },
+    {
+      "path": "loader.js",
+      "sha256": "25da7740a9faed2e79453562037777c31a4be78ccd1c523992a7e2248f47bddd",
+      "size": 13320
+    },
+    {
+      "path": "characters/hitrun-cletus.glb",
+      "sha256": "6c56abab5f32db506e05aaca7bdd20d5892802a72c127989ffa290606ca4883d",
+      "size": 921268
+    },
+    {
+      "path": "characters/hitrun-milhouse.rig.json",
+      "sha256": "d361fe8c4d60bcd694b218f1a182e7c7c2d6f0947f56ffd5a7c74f8026b1dd4b",
+      "size": 513
+    },
+    {
+      "path": "characters/hitrun-louie.glb",
+      "sha256": "e1a107d61999de8bf1321a7ad7affa004cb66626ab58da3a8d429d0dddeee22e",
+      "size": 882060
+    },
+    {
+      "path": "characters/hitrun-moleman.glb",
+      "sha256": "d667f0863ffc3d089724d52d78e7fd4a24adf437c9f62c79e40e4a565e5ef9a3",
+      "size": 879868
+    },
+    {
+      "path": "characters/hitrun-nriviera.glb",
+      "sha256": "9fa13dd80d1a810c6f74c82b4cb91226547cb8341d806f4273af6a41d7a349fc",
+      "size": 889552
+    },
+    {
+      "path": "characters/hitrun-grandpa.glb",
+      "sha256": "05cfdba492b7fdb2b58dfc5f9af8d32e9169e9f4530aa1df89c61a51e3d3a9f2",
+      "size": 959232
+    },
+    {
+      "path": "characters/hitrun-captain.rig.json",
+      "sha256": "25641049d39e1f9910fd86d80166d98d885ce9018a926de1419a66a0ba2ab3c5",
+      "size": 497
+    },
+    {
+      "path": "characters/hitrun-eddie.glb",
+      "sha256": "1cedc2fcb4106bfb0c18e43cdac7e2461fe8b820ce3ff41306ab534cdb4c24e5",
+      "size": 934832
+    },
+    {
+      "path": "characters/hitrun-m_pink.glb",
+      "sha256": "9e92070030a1f9de2df54661ac983ec60586b657447870967771ed8a2c13b984",
+      "size": 928112
+    },
+    {
+      "path": "characters/hitrun-jimbo.glb",
+      "sha256": "c1f26f30b51898adc233dc40752f176b51f4cf6e25f8d695f77a140b67c1cc46",
+      "size": 885564
+    },
+    {
+      "path": "characters/hitrun-b_hugo.rig.json",
+      "sha256": "f58aa3714f0ee55fb91b4a6d5b67d7da8ec37ecff48ff99397abf8a72b4cfd59",
+      "size": 512
+    },
+    {
+      "path": "characters/hitrun-brn_unf.rig.json",
+      "sha256": "f33a1f0b8ee88d93a9103baa53bb857219c51907c0006880665549bab0ea9970",
+      "size": 511
+    },
+    {
+      "path": "characters/hitrun-teen.glb",
+      "sha256": "0505486b24f4bcbc05edb5e0b2e0b29396660828ecb745782f4356bbbd523795",
+      "size": 924608
+    },
+    {
+      "path": "characters/hitrun-patty.rig.json",
+      "sha256": "4290b19d303cb24c1d140453183365000409aee23588c3667a7c5c0723827b66",
+      "size": 508
+    },
+    {
+      "path": "characters/hitrun-zfem1.rig.json",
+      "sha256": "773ca6d1841883a573cd7eb008eb80b01c2e20ef24c364820b446bf799b250d9",
+      "size": 503
+    },
+    {
+      "path": "characters/hitrun-bart.glb",
+      "sha256": "c97d26fb5c3af7f5099c469bd75e1d55a69d9f1fefc380666ab32d03df88c0e6",
+      "size": 909560
+    },
+    {
+      "path": "characters/hitrun-homer.rig.json",
+      "sha256": "835b4236d1b5891f0584aa564c2625c90d1ff1c3fa5d624d243992a1ec2116d0",
+      "size": 511
+    },
+    {
+      "path": "characters/hitrun-beeman.rig.json",
+      "sha256": "66b15f907f44131373426c3ad4249f6aacaca2b56ad11e8fe0e2bc47d5303c9d",
+      "size": 515
+    },
+    {
+      "path": "characters/hitrun-h_undrwr.rig.json",
+      "sha256": "df91e2a733613f074eeb8b36c0b93f3711f75a30bf9e888ac2aae7e683a3eb55",
+      "size": 516
+    },
+    {
+      "path": "characters/hitrun-b_hugo.glb",
+      "sha256": "90c266ea89c1a8bac16e996645925976a39bdb9bd0b13259ea64e931deacdddd",
+      "size": 921252
+    },
+    {
+      "path": "characters/hitrun-h_evil.glb",
+      "sha256": "584509fcfafaf267aaf4c030977527ce66825d1f1b655168c44a8f9283222180",
+      "size": 902608
+    },
+    {
+      "path": "characters/hitrun-moleman.rig.json",
+      "sha256": "40e242cd14e728b5bd59d2547f84fbf3e15c8b0495c74e06495da9b7ef8251fe",
+      "size": 461
+    },
+    {
+      "path": "characters/hitrun-ned.rig.json",
+      "sha256": "8a1421cc8131fd05c9923c5ed0119e387e289d94c8288be29722acc7f3d52934",
+      "size": 512
+    },
+    {
+      "path": "characters/hitrun-krusty.glb",
+      "sha256": "fb1a2f07b70c759d5c05b73c5e75e2cdc5c22e44969aed18662bc87747a00713",
+      "size": 923720
+    },
+    {
+      "path": "characters/hitrun-krusty.rig.json",
+      "sha256": "4dcc4d9fcabdd3bfcdc61b7892a73cef207dcee15e73ac373a0eeeed2206cc88",
+      "size": 511
+    },
+    {
+      "path": "characters/hitrun-patty.glb",
+      "sha256": "4a4656f9ac1d5d7495ef32798087ffcbc85a6612675661a3bb916a37be9febd1",
+      "size": 882872
+    },
+    {
+      "path": "characters/hitrun-apu.glb",
+      "sha256": "4fb0bee3d700d1f46f022d144e237c9bb972a78612c682425877b7071c43de2f",
+      "size": 927020
+    },
+    {
+      "path": "characters/hitrun-dolph.rig.json",
+      "sha256": "6a0ba9380aaa08090d307de8674870822fb5b585a99bf873b7dbef06b5d26389",
+      "size": 512
+    },
+    {
+      "path": "characters/hitrun-hibbert.rig.json",
+      "sha256": "8759cb0abb94ee2871b1f35a47696549a201b18f2d7f54f7a62e34a6e58b5dc9",
+      "size": 505
+    },
+    {
+      "path": "characters/hitrun-willie.rig.json",
+      "sha256": "87e7c7748f4df0ed9b559509b7abe786274cba94fb5599e2c707ea3a543fa88b",
+      "size": 512
+    },
+    {
+      "path": "characters/hitrun-carl.rig.json",
+      "sha256": "65ea39fe2252e16265e267a1d3f54901b445503225a6dbf00f0f0ec1e8c95f12",
+      "size": 507
+    },
+    {
+      "path": "characters/hitrun-h_stcrobe.rig.json",
+      "sha256": "5b5cb8dcfd152c0c56fd0209c646b82e208d1a91918c1edf7150f9b6314d0b5a",
+      "size": 513
+    },
+    {
+      "path": "characters/hitrun-a_american.glb",
+      "sha256": "c863196d419d8c364ea592f8c03393200c035f6fbfbbb310fc6bacb99e99ba0f",
+      "size": 911216
+    },
+    {
+      "path": "characters/hitrun-smithers.rig.json",
+      "sha256": "aa7b23b2ddb736517f87479829b4ea4e2d0c363184608ed8a0acd8362f1295b5",
+      "size": 509
+    },
+    {
+      "path": "characters/hitrun-teen.rig.json",
+      "sha256": "273f908966b6be61ed629e3615e7fb423c43b51517657b65035f9f8b5573bed4",
+      "size": 509
+    },
+    {
+      "path": "characters/phoenix-v2.glb",
+      "sha256": "92c1eeccbbd3d41e509b54febf0ed6c0801bc63ef0b28dd0cff2ce019f4b9249",
+      "size": 6389308
+    },
+    {
+      "path": "characters/hitrun-m_police.glb",
+      "sha256": "3300e8b5055325f1003c61fef6cf2a4f617c8c018d67e1e017a166048f193955",
+      "size": 923348
+    },
+    {
+      "path": "characters/hitrun-wiggum.rig.json",
+      "sha256": "b46f68f0e5d805ad8ec3f7ce1d8dd2f6dfdceaa1c1ab3ec581946be0ef659f99",
+      "size": 509
+    },
+    {
+      "path": "characters/hitrun-milhouse.glb",
+      "sha256": "8e439d218c37fb39f082e77a7ea9e906a8904f8c0ad86923dd1bf9ca6143d748",
+      "size": 899788
+    },
+    {
+      "path": "characters/hitrun-lenny.rig.json",
+      "sha256": "7a37ae647e94fb554692722107e4f6b9945b2877b4ded55e6ec4aa73b88c2104",
+      "size": 509
+    },
+    {
+      "path": "characters/hitrun-otto.rig.json",
+      "sha256": "c14af171db3f40e08e38f2f397111f46b40b77468ccb9f9ac952ce7f070f4cd9",
+      "size": 516
+    },
+    {
+      "path": "characters/hitrun-m_prison.rig.json",
+      "sha256": "1e577c3780b708bcab690036717106375a1b2995b110966c985d7b45d6dd58ae",
+      "size": 518
+    },
+    {
+      "path": "characters/hitrun-h_scuzzy.rig.json",
+      "sha256": "7a44a5e735ac7ae947d6aec97b970d1f555fbffc57342a0de594efe080a570ac",
+      "size": 514
+    },
+    {
+      "path": "characters/hitrun-a_besharp.glb",
+      "sha256": "492046da9846a2b39c35b08f08cb759c6806b0183bc90ea1aba1afef01edd4e2",
+      "size": 937544
+    },
+    {
+      "path": "characters/hitrun-l_jersey.rig.json",
+      "sha256": "5ef2ccf60c7c26d0549f8151c73b792b2408ef750c39bd07cb8743e73adfc839",
+      "size": 464
+    },
+    {
+      "path": "characters/hitrun-nelson.rig.json",
+      "sha256": "caf41e4c05b27341faba7ef6814f2a663d1815d3203b2b394b489dbeb24c9fa9",
+      "size": 447
+    },
+    {
+      "path": "characters/hitrun-frink.glb",
+      "sha256": "505b4586de5c3ad196b9caf976793b042ee5fe3775f55289fef1ef09b14857c0",
+      "size": 912068
+    },
+    {
+      "path": "characters/hitrun-barney.glb",
+      "sha256": "615dac2bd900f4ac147a80c83baa51c8508814496c4bc12123ef36104e303c40",
+      "size": 903068
+    },
+    {
+      "path": "characters/hitrun-smithers.glb",
+      "sha256": "9ec6804577be413dbe74734b8aa8089a711e92585f806478d7c5ae51e04b74e1",
+      "size": 909460
+    },
+    {
+      "path": "characters/hitrun-b_football.glb",
+      "sha256": "5f5f847fae0384b5f1d821dc25f202a9b9c868839405006abdc3f7ef552c37f5",
+      "size": 913368
+    },
+    {
+      "path": "characters/hitrun-brn_unf.glb",
+      "sha256": "cbcc042af988589cbf978ed11ab90590af9515dbd1adccd73d081db2d8fb172d",
+      "size": 919004
+    },
+    {
+      "path": "characters/hitrun-m_pink.rig.json",
+      "sha256": "06fb813fd392020b39d935245aabf7b907ede7dc7f3629b64890a815d5c35047",
+      "size": 510
+    },
+    {
+      "path": "characters/phoenix-v2.rig.json",
+      "sha256": "3ba692a6096d64bc5ed9f1b7ce44a4886cc07e09563b07c176718450a93fad18",
+      "size": 583
+    },
+    {
+      "path": "characters/hitrun-a_army.glb",
+      "sha256": "6248682fb0da8e153299797b7ec00e8dec2302b5a1e0bcb54b467f0de4ae186d",
+      "size": 938812
+    },
+    {
+      "path": "characters/hitrun-carl.glb",
+      "sha256": "2eb139d66941d5ac8bb185c391821aaad2c21b9301da83527eeff9afbce60c90",
+      "size": 898212
+    },
+    {
+      "path": "characters/hitrun-gil.rig.json",
+      "sha256": "d0bbe1ac3d9bea6899ecf42f32484501ddeb3a2759ec68ea6f19ebd9f84b8cb0",
+      "size": 511
+    },
+    {
+      "path": "characters/hitrun-skinner.rig.json",
+      "sha256": "eb05840c995e5fcde31dbc96b1f158cd26e8e25861a0c25e9ecd2cce5cd2999a",
+      "size": 511
+    },
+    {
+      "path": "characters/hitrun-m_police.rig.json",
+      "sha256": "e221a512d3f003e2a4d6e8e8414ace79de6635ab444681bd9291f64e9571adeb",
+      "size": 513
+    },
+    {
+      "path": "characters/hitrun-l_cool.rig.json",
+      "sha256": "9cf5bd6290edcd0c297d5f4397c48ddfb604e9ef560c328e8fb9d041a61b77b7",
+      "size": 513
+    },
+    {
+      "path": "characters/hitrun-jimbo.rig.json",
+      "sha256": "78d0eff7987b4064ec796248b3b4869525bb84b7d9c6def28efbbfe00d475d58",
+      "size": 509
+    },
+    {
+      "path": "characters/sas-blue.rig.json",
+      "sha256": "bdb0db7766db31209e6526eea25feb9b8217ea48e0312e68f5fa898ac25e12b0",
+      "size": 600
+    },
+    {
+      "path": "characters/hitrun-h_evil.rig.json",
+      "sha256": "649be3b87d0d0f4b5b0bc6da26664b3a4fc78c934aa28a4b1ab2bf788c3dd8e4",
+      "size": 508
+    },
+    {
+      "path": "characters/hitrun-lisa.rig.json",
+      "sha256": "487704ca2020106b799d744e41733ffe30fbf06c422a30517d5715736ac17129",
+      "size": 511
+    },
+    {
+      "path": "characters/hitrun-kearney.rig.json",
+      "sha256": "54f415fe5293b4e38f0ea0eb82d75c33861dbca0ca8b99ff5296e8b092a03015",
+      "size": 382
+    },
+    {
+      "path": "characters/hitrun-b_military.glb",
+      "sha256": "ccf50065ec700a3f0ad0aad58bfa4649e2af7ab61bb183e4c1b4d8d66386948b",
+      "size": 908536
+    },
+    {
+      "path": "characters/hitrun-m_prison.glb",
+      "sha256": "3085b5781900864e28834073e6219939ce3a531a451c9a62d5504e944ccdeb09",
+      "size": 934408
+    },
+    {
+      "path": "characters/hitrun-ralph.rig.json",
+      "sha256": "9ab9a91776850c1984d8eff309417152597465e39fe8aa430c8c71aa0e704d14",
+      "size": 507
+    },
+    {
+      "path": "characters/hitrun-zmale1.rig.json",
+      "sha256": "fe53dc57188008a658fa719290b0291514cb3ded4b82b7dc9e51e46946756724",
+      "size": 506
+    },
+    {
+      "path": "characters/hitrun-cbg.glb",
+      "sha256": "5c87b336f2f369e3f98fc49f14b393b6561d07641357644a48cbdec91d8dd216",
+      "size": 930648
+    },
+    {
+      "path": "characters/hitrun-captain.glb",
+      "sha256": "8e7bfc71c3d92fb402b6f85c7995fef5467cde652d844cb92e461e6578ca8a35",
+      "size": 922896
+    },
+    {
+      "path": "characters/hitrun-apu.rig.json",
+      "sha256": "6988d00e1da8b615ee9c6c779e569d4fd111ac46cc87d42cf8df0cdaee039f4c",
+      "size": 514
+    },
+    {
+      "path": "characters/CREDITS.txt",
+      "sha256": "9784b7e8b8e424560567e0d61ea32658e2a8758c4f413441585cfdbd9e1bf19f",
+      "size": 5073
+    },
+    {
+      "path": "characters/bugs-bunny.glb",
+      "sha256": "f335e120cb975af14a520cf4da26e09c9eb65a1364716bbf8502d53bdd3cafc1",
+      "size": 1841148
+    },
+    {
+      "path": "characters/hitrun-b_man.rig.json",
+      "sha256": "ac43bd24e1c9b09bd424abee79503c9f2b585dbdea2676051e343a4de4ccce44",
+      "size": 516
+    },
+    {
+      "path": "characters/hitrun-selma.rig.json",
+      "sha256": "5b37a42e73bd7c51502817699a88cf636c3d5dc805ab092557db48ec7f647bf8",
+      "size": 509
+    },
+    {
+      "path": "characters/hitrun-b_tall.rig.json",
+      "sha256": "019533c5a30933a2ea77676127fce9effdfbd00b481a8ace7d037819a7a414f2",
+      "size": 516
+    },
+    {
+      "path": "characters/hitrun-b_man.glb",
+      "sha256": "cb07b593780ec8e5c8b1e0d612077627b450236d5bdb66a701457ab0137b595d",
+      "size": 922060
+    },
+    {
+      "path": "characters/hitrun-kearney.glb",
+      "sha256": "18be93b9f6de24437614a38fe5c5f4df67e979a9ed44f7270f1ebede42916a03",
+      "size": 891800
+    },
+    {
+      "path": "characters/spiderman.glb",
+      "sha256": "749c11bc313542af0c421b2f4b52e2ef5f0945ec995adfd623341c1fc0da88fe",
+      "size": 18244832
+    },
+    {
+      "path": "characters/hitrun-homer.glb",
+      "sha256": "b1a8486746cf23a26cb0734b7b9cdca4d5759ac14311df50bfd9c09adc5f81b7",
+      "size": 896276
+    },
+    {
+      "path": "characters/hitrun-b_football.rig.json",
+      "sha256": "78419fed4237cc774fe5065e188259e593b8bffc1e9cb4e93b037bebf90aab5d",
+      "size": 513
+    },
+    {
+      "path": "characters/hitrun-h_stcrobe.glb",
+      "sha256": "d86f6a1a61fcc44b7521977f5f6027178b6188c9ecba2f219b9629bf2835fa35",
+      "size": 918228
+    },
+    {
+      "path": "characters/hitrun-barney.rig.json",
+      "sha256": "145125c33ff956f9569dae60c325f447c94194ba84896c634e18de2b3e819606",
+      "size": 513
+    },
+    {
+      "path": "characters/hitrun-marge.rig.json",
+      "sha256": "7c61f9d727e0bd2259555c3710240c153dd78a23d781f04f61ba4a6715317fcc",
+      "size": 509
+    },
+    {
+      "path": "characters/hitrun-jasper.rig.json",
+      "sha256": "95efaa644644018b9efb28a6a9def0fdccfdf38008fb92301f3922f79cec510d",
+      "size": 494
+    },
+    {
+      "path": "characters/hitrun-b_tall.glb",
+      "sha256": "c691c55e11e87b5a88c8bdd3a31ddfb6ac8cd40ff704bacb674167f9707e2ca5",
+      "size": 918908
+    },
+    {
+      "path": "characters/hitrun-b_ninja.glb",
+      "sha256": "293302b4e8455553a3e549ea0ae5bb1e0ef0134d2998a0012e40c09ff95e5fd9",
+      "size": 906304
+    },
+    {
+      "path": "characters/hitrun-selma.glb",
+      "sha256": "95da7c3c0d677e88265f6c6c6c64803784a311077ee9ec3189594dd11db9ca33",
+      "size": 911660
+    },
+    {
+      "path": "characters/hitrun-snake.glb",
+      "sha256": "54b740511e9ed67393706a5178567dafa0e12ee17d14f085018716a3d8f88cf6",
+      "size": 942456
+    },
+    {
+      "path": "characters/hitrun-burns.glb",
+      "sha256": "d811dcebfca60457651dcba1f31a850dcbcdfde0a8364445c30ba0f6ec366f45",
+      "size": 893176
+    },
+    {
+      "path": "characters/hitrun-frink.rig.json",
+      "sha256": "f9fa50635c5a43f21aeccce8a349ac92d5352f6604a9d706be28421f9ed06eec",
+      "size": 514
+    },
+    {
+      "path": "characters/hitrun-zfem1.glb",
+      "sha256": "da3054bce751cba1fa68376a2b4acfc989317c7badd2b85cff034b9c1d299f83",
+      "size": 821312
+    },
+    {
+      "path": "characters/hitrun-grandpa.rig.json",
+      "sha256": "c9217e30c071f4fe73007e013c5f592fbf0f22fe93b3ebc2dbd24595027c6f09",
+      "size": 513
+    },
+    {
+      "path": "characters/hitrun-marge.glb",
+      "sha256": "9315d25eb1b3a17e6cc90bfcc6d0721050eb1ef3e6fcb4a760909e36c4ed1533",
+      "size": 918076
+    },
+    {
+      "path": "characters/hitrun-a_army.rig.json",
+      "sha256": "5059dcd614cd1b91e09a6242f3584e671479967d24eae75b9c709a988b601098",
+      "size": 344
+    },
+    {
+      "path": "characters/hitrun-ned.glb",
+      "sha256": "e59e0e6a655a734aeb5ac7e4609febb08faf6c4a23f16f4895308055739232d8",
+      "size": 910096
+    },
+    {
+      "path": "characters/hitrun-h_donut.glb",
+      "sha256": "60d302413700f686ca4f6c6fb676c6fef6bdc4b5712426a42f4d479ee6b2791b",
+      "size": 944044
+    },
+    {
+      "path": "characters/hitrun-moe.glb",
+      "sha256": "f96af4717e87112205c6f84369fb2cb457135d2258b6ed066a1c89715ae09228",
+      "size": 919056
+    },
+    {
+      "path": "characters/hitrun-hibbert.glb",
+      "sha256": "c9e9f9a743eb168ac616ff9b6c07843d83e9ffc850695e33d0f40f87360c3046",
+      "size": 884852
+    },
+    {
+      "path": "characters/homer-fortnite.rig.json",
+      "sha256": "0f0d691804f56232e2fe663f01ccf82b7c9c83686d50021fe29be47c59965fa9",
+      "size": 600
+    },
+    {
+      "path": "characters/hitrun-snake.rig.json",
+      "sha256": "6e8a00cb22f0ec55293648e5452544dd4e50d3ef78123c7273dee1c1f6cbcc4a",
+      "size": 511
+    },
+    {
+      "path": "characters/hitrun-nriviera.rig.json",
+      "sha256": "75bbb5a7cc664e86a66afb692afde5211c507d5efbbb82e6f4697263106a0af8",
+      "size": 510
+    },
+    {
+      "path": "characters/hitrun-h_undrwr.glb",
+      "sha256": "c1236c0addec277ce41aa7f25de8111bf4762f598248f0693cdbaf70b5ebe5a6",
+      "size": 911460
+    },
+    {
+      "path": "characters/hitrun-a_besharp.rig.json",
+      "sha256": "02d2932a6099f0ae248465dd27428f080adb9b8078ca11acd549c2659ce1e671",
+      "size": 511
+    },
+    {
+      "path": "characters/hitrun-l_jersey.glb",
+      "sha256": "195403c89154da73ac7884f01c5ce3073868e165ba28f8f6b2d1d028c1de4b64",
+      "size": 906900
+    },
+    {
+      "path": "characters/hitrun-moe.rig.json",
+      "sha256": "99f56c8bccd83cdbe1588a08e42a323469c90892a5b43acc88551f7436f694e0",
+      "size": 509
+    },
+    {
+      "path": "characters/hitrun-ralph.glb",
+      "sha256": "6ef214f19e69b0307c467e1ecb415582d15f7cc4c0a05a9c20da6b914e73d60e",
+      "size": 943664
+    },
+    {
+      "path": "characters/homer-fortnite.glb",
+      "sha256": "0575bd3a14c45de03cd3c89fd6c0d7bf07b2062f2f9791457d28cbcb91abf050",
+      "size": 1890132
+    },
+    {
+      "path": "characters/hitrun-h_fat.glb",
+      "sha256": "dd6b664b63f62eafb0705cf3d3104c2b7af5cf52019f4694f95143e0c0e063f2",
+      "size": 938916
+    },
+    {
+      "path": "characters/hitrun-h_scuzzy.glb",
+      "sha256": "ec2dc12c4037d179fe3827988cd178fe275993449edec2e97146e5a673397f62",
+      "size": 912604
+    },
+    {
+      "path": "characters/hitrun-eddie.rig.json",
+      "sha256": "717689d328f5e7b929e3382f6bc6d3abdb0e0f38ecde65e4e9c3703e1d4b54ad",
+      "size": 496
+    },
+    {
+      "path": "characters/hitrun-zmale3.rig.json",
+      "sha256": "f1081cbef5eea4e2fd31db52df19357b5cabd9693cde870652b283c4fb0f6639",
+      "size": 501
+    },
+    {
+      "path": "characters/hitrun-cletus.rig.json",
+      "sha256": "483352fdaee88427fd0c893ca475facaa23bac0366b1e46c8ee160e60a541092",
+      "size": 509
+    },
+    {
+      "path": "characters/sas-blue.glb",
+      "sha256": "103a7c6c7d9ac68dd7e2c7ae3174951e581c927275ec842f46017d34a16a772f",
+      "size": 4519860
+    },
+    {
+      "path": "characters/spiderman.rig.json",
+      "sha256": "4de5d33ab12aa8488666d6cfbeccd0b084b7403a4f91a8f0b6cb6763b9e26243",
+      "size": 567
+    },
+    {
+      "path": "characters/hitrun-skinner.glb",
+      "sha256": "19597fd2d164717e3331faa46fa80ea831effc33e8245305ce53bdf1bcacf9da",
+      "size": 889128
+    },
+    {
+      "path": "characters/hitrun-lou.glb",
+      "sha256": "47f946cc522cc1080cf7ea13cdab9c479778ecdcab210a8d1c91a3a5bed5bab8",
+      "size": 889432
+    },
+    {
+      "path": "characters/hitrun-bart.rig.json",
+      "sha256": "86c2e71bd72828f1547c59fe18633233f45e1af5ac5cbdef8c555a7df69aac71",
+      "size": 517
+    },
+    {
+      "path": "characters/hitrun-h_fat.rig.json",
+      "sha256": "26a4168ae0bc40677aab55e2fdc46fffa055bae0cb4ad53b7997cb39bebdc9d8",
+      "size": 513
+    },
+    {
+      "path": "characters/hitrun-nelson.glb",
+      "sha256": "85bfc50e1e3851e71b27f4c1a93cba8528243661a5692b3ca8e3876923175dfb",
+      "size": 887928
+    },
+    {
+      "path": "characters/hitrun-a_american.rig.json",
+      "sha256": "09043703b2ec29fa32c83f20ea6ea26e5deb56c4919d7cba1548b73848585021",
+      "size": 512
+    },
+    {
+      "path": "characters/hitrun-jasper.glb",
+      "sha256": "94061a5b9ba72befef885886d0e3b26942d67d8d9ffff327ecd7878d68f4c9ce",
+      "size": 917452
+    },
+    {
+      "path": "characters/hitrun-dolph.glb",
+      "sha256": "71cb40c33bee59c6f76a626540098bd447b793745fd1d8d089a77be37e0a4076",
+      "size": 894084
+    },
+    {
+      "path": "characters/hitrun-willie.glb",
+      "sha256": "ffad599f6b2cdf5eabf6935f3629e2d30b3c57747f8e35b884a5299a763f895b",
+      "size": 894568
+    },
+    {
+      "path": "characters/hitrun-b_ninja.rig.json",
+      "sha256": "c555b775785a3957d1c6d6121a1dce0aaed26297822384134bec567ae4485d4a",
+      "size": 511
+    },
+    {
+      "path": "characters/hitrun-l_florida.glb",
+      "sha256": "8e5fb2c1dcd91cc085c8813e623fd7f340a7dba7c456fdb74762692f5c9aeb65",
+      "size": 945540
+    },
+    {
+      "path": "characters/hitrun-cbg.rig.json",
+      "sha256": "7ef7ab5a663c0f8672ce8971c79b143d4b19b036b977942391a1f193acf8db03",
+      "size": 512
+    },
+    {
+      "path": "characters/hitrun-l_florida.rig.json",
+      "sha256": "ef8e30d87d53bf9af6a5f5eab259926f4df64c5e01dcf00d82b2d4fda9643f9e",
+      "size": 517
+    },
+    {
+      "path": "characters/bugs-bunny.rig.json",
+      "sha256": "c1142f122579e7beee1253103370bca4fc13c80e55e0b9a6182964da947bda0e",
+      "size": 594
+    },
+    {
+      "path": "characters/hitrun-lou.rig.json",
+      "sha256": "257308875a2ba5cb4d51750c4830833f5f5ed9ee03cc9610c169ac6388c40cb5",
+      "size": 508
+    },
+    {
+      "path": "characters/hitrun-gil.glb",
+      "sha256": "07c604477325ef41f612651b5ce7f5743858d840fd8c863fdd8621770469e6a6",
+      "size": 920276
+    },
+    {
+      "path": "characters/combine-soldier.glb",
+      "sha256": "1c810431caaceb61e7274c869fd0e6d4cc6486097b54b5b0b45d0b053b78a345",
+      "size": 1992100
+    },
+    {
+      "path": "characters/hitrun-wiggum.glb",
+      "sha256": "2062b1149e12002ff9868d76cf17e0bd508006dcdb09ec567e1b38022d019517",
+      "size": 928636
+    },
+    {
+      "path": "characters/hitrun-lenny.glb",
+      "sha256": "ddc0a1ab46c29915c7868956bd737b03130b44a4a19480fb40f4e9b7509783a4",
+      "size": 909688
+    },
+    {
+      "path": "characters/hitrun-beeman.glb",
+      "sha256": "4d3046742b547979cadc759dff9a295e7fb9921f09d14a4ce7a7747316fc3964",
+      "size": 928648
+    },
+    {
+      "path": "characters/hitrun-zmale3.glb",
+      "sha256": "4644b016cccb0ff0fcac2bb92207c7789770c4de829466d95bb5bb223da67aa2",
+      "size": 819824
+    },
+    {
+      "path": "characters/hitrun-l_cool.glb",
+      "sha256": "e2a3b6aaffc6f13e8609ffcdb2444154fa5126e3476f9ac9451dd28ffc880445",
+      "size": 929224
+    },
+    {
+      "path": "characters/hitrun-louie.rig.json",
+      "sha256": "a1bb0265ff4a33c99fbdcbfc2f5aeba4b251f50a9c8d445df3ef8c2ae9e824c4",
+      "size": 261
+    },
+    {
+      "path": "characters/hitrun-h_donut.rig.json",
+      "sha256": "89597472319e63967663dd0e7498c2c424fff463a296cadea874a12069a6a49f",
+      "size": 513
+    },
+    {
+      "path": "characters/hitrun-zmale1.glb",
+      "sha256": "441c64089f16be5d750252c299a4bdd0fa8abadd15887ccaca904ad44438f75b",
+      "size": 831384
+    },
+    {
+      "path": "characters/hitrun-burns.rig.json",
+      "sha256": "edb8f261b7f9c3a53ee18c2ed46c88fec60cc0bb117e3019e4784f1127f19147",
+      "size": 507
+    },
+    {
+      "path": "characters/hitrun-lisa.glb",
+      "sha256": "cf4935ac9cd327538f1507923eaf1de22771df833d401a7014f1fc5742596972",
+      "size": 905332
+    },
+    {
+      "path": "characters/stormtrooper.glb",
+      "sha256": "0ba3b03facfb55168145adcd3a80b452b449e84f7ccece7ba987b4cdd4aad5b8",
+      "size": 9118460
+    },
+    {
+      "path": "characters/hitrun-b_military.rig.json",
+      "sha256": "b669b5be3511ef5bb2b41648d960c51754519ade4becd0c9ad7f6f16a168af8b",
+      "size": 512
+    },
+    {
+      "path": "characters/bart-fortnite.glb",
+      "sha256": "fcae31320639935367593543b413d0af00bd1967f8aec563f4a3ad53b8fa7fb5",
+      "size": 3389584
+    },
+    {
+      "path": "characters/hitrun-otto.glb",
+      "sha256": "7a776304598a221ddb362df4c494bd1cb5e988bcdc082a653e4a5472b9067caa",
+      "size": 919780
+    },
+    {
+      "path": ".openai/hosting.json",
+      "sha256": "44b346d1c6749b27f9c17e398c3fe97809c28b9aff5a9670da73ac54842ddd80",
+      "size": 106
+    },
+    {
+      "path": "maps/SimpsonsDowntown.skate",
+      "sha256": "fc2133d89c120052bb4942484109e81c4d5e80f5941d6255ce98b5d3ea812ce1",
+      "size": 5283541
+    },
+    {
+      "path": "maps/SimpsonsDowntown.json",
+      "sha256": "ab9b24d171307b4a6b2963fce95b5f1e7cf13cb72d2d8a8b79317a6764fb3cf1",
+      "size": 2574
+    },
+    {
+      "path": "maps/Springfield.skate",
+      "sha256": "27bed9c273f6cbd500830c280705a2772acddb202fd8ef6e37db63366d1c4d62",
+      "size": 19258261
+    }
+  ]
+}
