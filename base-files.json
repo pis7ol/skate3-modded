@@ -12,11 +12,6 @@
       "size": 457
     },
     {
-      "path": "index.html",
-      "sha256": "cf7fec51827ba8c1ec4bc27c91c74d0fa3b9cfbe26c336ff269ba4d7ab2287c8",
-      "size": 3937
-    },
-    {
       "path": "Spider-Man-CREDITS.txt",
       "sha256": "8ca740eae56df2a26a687ce25f5137351d8c59cd67a131babfd605381ed927e5",
       "size": 322
@@ -57,11 +52,6 @@
       "size": 3989359
     },
     {
-      "path": "characters.js",
-      "sha256": "67f0a62b349096ca6040cdca96051b5b24d67a8de720d907a56dc67fb07fc20b",
-      "size": 14822
-    },
-    {
       "path": "skate3rust_bg.wasm.part0.gz",
       "sha256": "52f9d6d816f7c420dd433ce1e65257352619db6258e77e16b96e1c76a000a109",
       "size": 5474281
@@ -100,11 +90,6 @@
       "path": "touch.js",
       "sha256": "0823e52a087acba9747fbed788b574ae8d58a6aaac590ea859f64132c9399431",
       "size": 9803
-    },
-    {
-      "path": "loader.js",
-      "sha256": "25da7740a9faed2e79453562037777c31a4be78ccd1c523992a7e2248f47bddd",
-      "size": 13320
     },
     {
       "path": "characters/hitrun-cletus.glb",
