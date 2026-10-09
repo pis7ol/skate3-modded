@@ -2,7 +2,9 @@
 
 [Play skate3](https://pis7ol.github.io/skate3-modded/)
 
-The GitHub Pages build copies the existing public game from Sites, verifies each file against its SHA-256, then applies the animated skateboard loading screen and menu artwork in this repository. Once deployed, the game files are served directly by GitHub Pages.
+The GitHub Pages build recovers the existing release assets from GitHub Pages, verifies each file against its SHA-256, then applies the loading screen and menu artwork in this repository. The former Sites asset source is no longer required.
+
+The eight original skate maps are pinned in `map-files.json`, downloaded and verified during the build, and served alongside the Simpsons maps by GitHub Pages. `pack.json` is updated from those verified records so live changes on the original map host cannot break map loading in an already published release.
 
 The previous audio is retained. New-version maps, clothing, multiplayer and Hall of Meat are not included because they require the newer engine and, for multiplayer, a lobby server.
 

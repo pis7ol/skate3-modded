@@ -1,0 +1,53 @@
+{
+  "origin": "https://andrewnakas.github.io/skate3-cleanroom",
+  "files": [
+    {
+      "name": "BlackBoxPark",
+      "path": "maps/BlackBoxPark.skate",
+      "size": 20478384,
+      "sha256": "52eef3fa61459dc114b6e17ff9df873c95110cfe6a31f644a62af6c2778802e5"
+    },
+    {
+      "name": "dmjumpline",
+      "path": "maps/dmjumpline.skate",
+      "size": 11922009,
+      "sha256": "5e54b7244d08c8ad3256a8e4412932caf67f10cbb241e9342fe76a22c6174980"
+    },
+    {
+      "name": "DownTownSkatePark",
+      "path": "maps/DownTownSkatePark.skate",
+      "size": 47447606,
+      "sha256": "458b1ca5d52ca0c8b30d10242a482d1056d7ea9b1d1b4474cb82da8a38c3674b"
+    },
+    {
+      "name": "IndustrialSkatePark",
+      "path": "maps/IndustrialSkatePark.skate",
+      "size": 19417243,
+      "sha256": "b4c75efba31eef3a45378f9f2b1ff44de728d0b93797f8954a88850b92d07026"
+    },
+    {
+      "name": "MaloofMoneyCup",
+      "path": "maps/MaloofMoneyCup.skate",
+      "size": 54267223,
+      "sha256": "03d1bcf921d3fcd78c359133432748ee8e85c29f8fbec93d57e1e6cfc095efd9"
+    },
+    {
+      "name": "MegaPark",
+      "path": "maps/MegaPark.skate",
+      "size": 14612737,
+      "sha256": "0c540ff1173e4dec4fd13ca2a19a3b16d71080a05e3c6724b7f1b4194956f3f4"
+    },
+    {
+      "name": "SkateSchool",
+      "path": "maps/SkateSchool.skate",
+      "size": 63493014,
+      "sha256": "900c069ca53dae48669a6cdfb779f621ea35e52c4feb46db986bc42b09c931b9"
+    },
+    {
+      "name": "StartPark",
+      "path": "maps/StartPark.skate",
+      "size": 10208291,
+      "sha256": "118786f479dd1e4feec95671d97b9498a83f10872c2499dfe61d2659ba5fcad4"
+    }
+  ]
+}

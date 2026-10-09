@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "engine": {
+    "size": 50749272,
+    "hash": "d60e23310332b26f",
+    "parts": [
+      "skate3rust_bg.wasm.part0.gz",
+      "skate3rust_bg.wasm.part1.gz",
+      "skate3rust_bg.wasm.part2.gz"
+    ]
+  },
+  "core": {
+    "size": 88817437,
+    "parts": [
+      "core.pack.part0",
+      "core.pack.part1",
+      "core.pack.part2",
+      "core.pack.part3",
+      "core.pack.part4"
+    ],
+    "files": 530,
+    "hash": "398c78a1a3dc1110"
+  },
+  "maps": [
+    {
+      "name": "BlackBoxPark",
+      "size": 20584501,
+      "parts": [
+        "https://andrewnakas.github.io/skate3-cleanroom/maps/BlackBoxPark.skate"
+      ],
+      "hash": "8231cc7e35210dfe"
+    },
+    {
+      "name": "dmjumpline",
+      "size": 11922009,
+      "parts": [
+        "https://andrewnakas.github.io/skate3-cleanroom/maps/dmjumpline.skate"
+      ],
+      "hash": "5e54b7244d08c8ad"
+    },
+    {
+      "name": "DownTownSkatePark",
+      "size": 47676320,
+      "parts": [
+        "https://andrewnakas.github.io/skate3-cleanroom/maps/DownTownSkatePark.skate"
+      ],
+      "hash": "e8d167b1856fae63"
+    },
+    {
+      "name": "IndustrialSkatePark",
+      "size": 19515355,
+      "parts": [
+        "https://andrewnakas.github.io/skate3-cleanroom/maps/IndustrialSkatePark.skate"
+      ],
+      "hash": "9f85e0836b5fb081"
+    },
+    {
+      "name": "MaloofMoneyCup",
+      "size": 54438365,
+      "parts": [
+        "https://andrewnakas.github.io/skate3-cleanroom/maps/MaloofMoneyCup.skate"
+      ],
+      "hash": "cb57491b03922e3c"
+    },
+    {
+      "name": "MegaPark",
+      "size": 14686761,
+      "parts": [
+        "https://andrewnakas.github.io/skate3-cleanroom/maps/MegaPark.skate"
+      ],
+      "hash": "9932a7dc0b3ef196"
+    },
+    {
+      "name": "SimpsonsDowntown",
+      "size": 5283541,
+      "parts": [
+        "maps/SimpsonsDowntown.skate"
+      ],
+      "hash": "fc2133d89c120052"
+    },
+    {
+      "name": "SkateSchool",
+      "size": 64090710,
+      "parts": [
+        "https://andrewnakas.github.io/skate3-cleanroom/maps/SkateSchool.skate"
+      ],
+      "hash": "2b4783ed715b8e31"
+    },
+    {
+      "name": "Springfield",
+      "size": 19258261,
+      "parts": [
+        "maps/Springfield.skate"
+      ],
+      "hash": "27bed9c273f6cbd5"
+    },
+    {
+      "name": "StartPark",
+      "size": 10304300,
+      "parts": [
+        "https://andrewnakas.github.io/skate3-cleanroom/maps/StartPark.skate"
+      ],
+      "hash": "4b60d43e2a711443"
+    }
+  ],
+  "default": "Springfield"
+}

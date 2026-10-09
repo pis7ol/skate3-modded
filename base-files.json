@@ -1,11 +1,6 @@
 {
-  "origin": "https://skate3-modded.pis7ol.chatgpt.site",
+  "origin": "https://pis7ol.github.io/skate3-modded",
   "files": [
-    {
-      "path": "pack.json",
-      "sha256": "0430936c7b98ac7180ae53e08852d816558036e1d00d53a19f8223a20e132fd5",
-      "size": 2490
-    },
     {
       "path": "SimpsonsDowntown-CREDITS.txt",
       "sha256": "04103f2b0d27822af0094a6f010b7db2666188d70aadbfd4986101e1fe70bd82",
