@@ -1,3 +1,5 @@
+import './audio-settings.js';
+import { installCapeMotion } from './cape-motion.js';
 import { installCharacterScale } from './character-scale.js?v=hitrun-characters-2';
 import { characterMenu, equipCharacter } from './characters.js?v=reference-art-2';
 // Downloads core.pack + one map (see tools/web_pack.py), hands the bytes to
@@ -208,6 +210,7 @@ async function main() {
 
   const selectedCharacter = await characterMenu(pack.maps, map?.name ?? 'Test world');
   installCharacterScale(selectedCharacter);
+  installCapeMotion(selectedCharacter);
   const engine = pack.engine;
   const total = pack.core.size + (map ? map.size : 0) + (engine ? engine.size : 0);
   let done = 0;

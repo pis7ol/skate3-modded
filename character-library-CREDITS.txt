@@ -1,0 +1,95 @@
+Bart — Fortnite
+Model Information:
+* title:	Bart Simpson - Fortnite
+* source:	https://sketchfab.com/3d-models/bart-simpson-fortnite-e9d12a0e4c3f4ca8832e7f5755870bd9
+* author:	Jacxx2 (https://sketchfab.com/TheSimpsonsFan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bart Simpson - Fortnite" (https://sketchfab.com/3d-models/bart-simpson-fortnite-e9d12a0e4c3f4ca8832e7f5755870bd9) by Jacxx2 (https://sketchfab.com/TheSimpsonsFan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+Combine Soldier
+Model Information:
+* title:	Combine soldier
+* source:	https://sketchfab.com/3d-models/combine-soldier-abfd5bd55ad6460b9fc207bd93f567cc
+* author:	davidthe19th (https://sketchfab.com/davidthe19th)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Combine soldier" (https://sketchfab.com/3d-models/combine-soldier-abfd5bd55ad6460b9fc207bd93f567cc) by davidthe19th (https://sketchfab.com/davidthe19th) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+Stormtrooper
+Model Information:
+* title:	Star Wars Rigged StormTrooper Model
+* source:	https://sketchfab.com/3d-models/star-wars-rigged-stormtrooper-model-8d7e698218174e2b9e40f8c4c1acceba
+* author:	Martin Fauré (https://sketchfab.com/beberlekhey)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Star Wars Rigged StormTrooper Model" (https://sketchfab.com/3d-models/star-wars-rigged-stormtrooper-model-8d7e698218174e2b9e40f8c4c1acceba) by Martin Fauré (https://sketchfab.com/beberlekhey) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+
+Rig fitting and skin weights adapted for skating.
+
+SAS — CS2 Blue
+This work is based on "SAS | CS2 Agent Model Blue" (https://sketchfab.com/3d-models/sas-cs2-agent-model-blue-7f18aaccd0ee4694a36646101a12339e) by gettan (https://sketchfab.com/kill6lucius), licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). Original character by Valve.
+Rig fitting and materials adapted for skating.
+
+Phoenix V2 — CSGO
+This work is based on "Tm Phoenix V2- csgo terrorist characters" (https://sketchfab.com/3d-models/tm-phoenix-v2-csgo-terrorist-characters-8cd9781067b24cf4b36f0f2916f9ac35) by ErhanMatur (https://sketchfab.com/erhanmatur), licensed under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/). Original character by Valve.
+Rig fitting and materials adapted for skating.
+
+
+Homer — Fortnite
+Model Information:
+* title:	Homer Simpson - Fortnite Skin
+* source:	https://sketchfab.com/3d-models/homer-simpson-fortnite-skin-eb19af095b3e4ddfa9b2b97c244c2da1
+* author:	GatoBugadoBR (https://sketchfab.com/GatoBugadoBR)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Homer Simpson - Fortnite Skin" (https://sketchfab.com/3d-models/homer-simpson-fortnite-skin-eb19af095b3e4ddfa9b2b97c244c2da1) by GatoBugadoBR (https://sketchfab.com/GatoBugadoBR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Converted and fitted to the skating skeleton for this local game.
+
+
+Bugs Bunny — Fortnite
+Model Information:
+* title:	Bugs Bunny - Fortnite Skin
+* source:	https://sketchfab.com/3d-models/bugs-bunny-fortnite-skin-3bc1f88770234202857cd8f9149e3136
+* author:	GatoBugadoBR (https://sketchfab.com/GatoBugadoBR)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bugs Bunny - Fortnite Skin" (https://sketchfab.com/3d-models/bugs-bunny-fortnite-skin-3bc1f88770234202857cd8f9149e3136) by GatoBugadoBR (https://sketchfab.com/GatoBugadoBR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Converted and fitted to the skating skeleton for this local game.
+
+Hit & Run character library (66 character models and outfits)
+Original models and textures: Radical Entertainment / The Simpsons: Hit & Run.
+Decoded assets: Vheissu, https://github.com/Vheissu/hit-and-run-web
+Original game assets retain their existing copyrights. Port tools: MIT.
+Skating skeleton conversion, model fitting and size adjustments added for this game.
+
+New characters:
+CaseOh (BIG Version) by ShreksEmpyre. Sketchfab Standard.
+https://sketchfab.com/3d-models/caseoh-big-version-954cdfbf6dd24a52b2e8e7afa53f4811
+Fortnite Spider-Man Future Foundation Skin by FN_Requests. CC BY 4.0.
+https://sketchfab.com/3d-models/fortnite-spider-man-future-foundation-skin-e21d6891c9c44c99aa587f2dcbbdbe30
+Mandalorian Armored Fortnite Skin by Neut2000. CC BY 4.0.
+https://sketchfab.com/3d-models/mandalorian-armored-fortnite-skin-83511a44e7464c3d8cb976c60b621161
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Models adapted to the game skeleton; skating weights and cape flutter added.

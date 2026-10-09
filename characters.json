@@ -1,0 +1,673 @@
+[
+  {
+    "id": "bart-fortnite",
+    "name": "Bart \u2014 Fortnite",
+    "file": "characters/bart-fortnite.glb",
+    "size": 3389584,
+    "hash": "fcae313206399353"
+  },
+  {
+    "id": "combine-soldier",
+    "name": "Combine Soldier",
+    "file": "characters/combine-soldier.glb",
+    "size": 1992100,
+    "hash": "1c810431caaceb61"
+  },
+  {
+    "id": "stormtrooper",
+    "name": "Stormtrooper",
+    "file": "characters/stormtrooper.glb",
+    "size": 9118460,
+    "hash": "0ba3b03facfb5516"
+  },
+  {
+    "id": "sas-blue",
+    "name": "SAS \u2014 CS2 Blue",
+    "file": "characters/sas-blue.glb",
+    "size": 4519860,
+    "hash": "103a7c6c7d9ac68d"
+  },
+  {
+    "id": "phoenix-v2",
+    "name": "Phoenix V2 \u2014 CSGO",
+    "file": "characters/phoenix-v2.glb",
+    "size": 6389308,
+    "hash": "92c1eeccbbd3d41e"
+  },
+  {
+    "id": "spiderman",
+    "name": "Spider-Man \u2014 PS4",
+    "file": "characters/spiderman.glb",
+    "size": 18244832,
+    "hash": "749c11bc313542af"
+  },
+  {
+    "id": "homer-fortnite",
+    "name": "Homer \u2014 Fortnite",
+    "file": "characters/homer-fortnite.glb",
+    "size": 1890132,
+    "hash": "0575bd3a14c45de0"
+  },
+  {
+    "id": "bugs-bunny",
+    "name": "Bugs Bunny \u2014 Fortnite",
+    "file": "characters/bugs-bunny.glb",
+    "size": 1841148,
+    "hash": "f335e120cb975af1"
+  },
+  {
+    "id": "mandalorian",
+    "name": "Mandalorian \u2014 Armored",
+    "file": "characters/mandalorian.glb",
+    "size": 13886020,
+    "hash": "45541513d371127f"
+  },
+  {
+    "id": "spiderman-future",
+    "name": "Spider-Man \u2014 Future Foundation",
+    "file": "characters/spiderman-future.glb",
+    "size": 6877920,
+    "hash": "859e034168bea456"
+  },
+  {
+    "id": "caseoh",
+    "name": "CaseOh \u2014 BIG Version",
+    "file": "characters/caseoh.glb",
+    "size": 40745424,
+    "hash": "292b9fc1e8a4e696"
+  },
+  {
+    "id": "hitrun-homer",
+    "name": "Homer",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-homer.glb",
+    "size": 896276,
+    "hash": "b1a8486746cf23a2",
+    "renderScale": 0.751
+  },
+  {
+    "id": "hitrun-bart",
+    "name": "Bart",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-bart.glb",
+    "size": 909560,
+    "hash": "c97d26fb5c3af7f5",
+    "renderScale": 0.4636
+  },
+  {
+    "id": "hitrun-lisa",
+    "name": "Lisa",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-lisa.glb",
+    "size": 905332,
+    "hash": "cf4935ac9cd32753",
+    "renderScale": 0.5006
+  },
+  {
+    "id": "hitrun-marge",
+    "name": "Marge",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-marge.glb",
+    "size": 918076,
+    "hash": "9315d25eb1b3a17e",
+    "renderScale": 0.823
+  },
+  {
+    "id": "hitrun-apu",
+    "name": "Apu",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-apu.glb",
+    "size": 927020,
+    "hash": "4fb0bee3d700d1f4",
+    "renderScale": 0.7873
+  },
+  {
+    "id": "hitrun-a_american",
+    "name": "Apu \u2014 American",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-a_american.glb",
+    "size": 911216,
+    "hash": "c863196d419d8c36",
+    "renderScale": 0.6998
+  },
+  {
+    "id": "hitrun-a_army",
+    "name": "Apu \u2014 Army",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-a_army.glb",
+    "size": 938812,
+    "hash": "6248682fb0da8e15",
+    "renderScale": 0.7726
+  },
+  {
+    "id": "hitrun-a_besharp",
+    "name": "Apu \u2014 Be Sharp",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-a_besharp.glb",
+    "size": 937544,
+    "hash": "492046da9846a2b3",
+    "renderScale": 0.7959
+  },
+  {
+    "id": "hitrun-b_football",
+    "name": "Bart \u2014 Football",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-b_football.glb",
+    "size": 913368,
+    "hash": "5f5f847fae0384b5",
+    "renderScale": 0.4779
+  },
+  {
+    "id": "hitrun-b_hugo",
+    "name": "Bart \u2014 Hugo",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-b_hugo.glb",
+    "size": 921252,
+    "hash": "90c266ea89c1a8ba",
+    "renderScale": 0.467
+  },
+  {
+    "id": "hitrun-b_man",
+    "name": "Bartman",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-b_man.glb",
+    "size": 922060,
+    "hash": "cb07b593780ec8e5",
+    "renderScale": 0.4637
+  },
+  {
+    "id": "hitrun-b_military",
+    "name": "Bart \u2014 Military",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-b_military.glb",
+    "size": 908536,
+    "hash": "ccf50065ec700a3f",
+    "renderScale": 0.4604
+  },
+  {
+    "id": "hitrun-b_ninja",
+    "name": "Bart \u2014 Ninja",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-b_ninja.glb",
+    "size": 906304,
+    "hash": "293302b4e8455553",
+    "renderScale": 0.4783
+  },
+  {
+    "id": "hitrun-b_tall",
+    "name": "Bart \u2014 Tall",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-b_tall.glb",
+    "size": 918908,
+    "hash": "c691c55e11e87b5a",
+    "renderScale": 0.4512
+  },
+  {
+    "id": "hitrun-barney",
+    "name": "Barney",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-barney.glb",
+    "size": 903068,
+    "hash": "615dac2bd900f4ac",
+    "renderScale": 0.8523
+  },
+  {
+    "id": "hitrun-beeman",
+    "name": "Bumblebee Man",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-beeman.glb",
+    "size": 928648,
+    "hash": "4d3046742b547979",
+    "renderScale": 0.6819
+  },
+  {
+    "id": "hitrun-brn_unf",
+    "name": "Barney \u2014 Uniform",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-brn_unf.glb",
+    "size": 919004,
+    "hash": "cbcc042af988589c",
+    "renderScale": 0.8128
+  },
+  {
+    "id": "hitrun-burns",
+    "name": "Burns",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-burns.glb",
+    "size": 893176,
+    "hash": "d811dcebfca60457",
+    "renderScale": 0.8375
+  },
+  {
+    "id": "hitrun-captain",
+    "name": "Sea Captain",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-captain.glb",
+    "size": 922896,
+    "hash": "8e7bfc71c3d92fb4",
+    "renderScale": 0.778
+  },
+  {
+    "id": "hitrun-carl",
+    "name": "Carl",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-carl.glb",
+    "size": 898212,
+    "hash": "2eb139d66941d5ac",
+    "renderScale": 0.8177
+  },
+  {
+    "id": "hitrun-cbg",
+    "name": "Comic Book Guy",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-cbg.glb",
+    "size": 930648,
+    "hash": "5c87b336f2f369e3",
+    "renderScale": 0.759
+  },
+  {
+    "id": "hitrun-cletus",
+    "name": "Cletus",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-cletus.glb",
+    "size": 921268,
+    "hash": "6c56abab5f32db50",
+    "renderScale": 0.8602
+  },
+  {
+    "id": "hitrun-dolph",
+    "name": "Dolph",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-dolph.glb",
+    "size": 894084,
+    "hash": "71cb40c33bee59c6",
+    "renderScale": 0.5853
+  },
+  {
+    "id": "hitrun-eddie",
+    "name": "Eddie",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-eddie.glb",
+    "size": 934832,
+    "hash": "1cedc2fcb4106bfb",
+    "renderScale": 0.7874
+  },
+  {
+    "id": "hitrun-frink",
+    "name": "Frink",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-frink.glb",
+    "size": 912068,
+    "hash": "505b4586de5c3ad1",
+    "renderScale": 0.7181
+  },
+  {
+    "id": "hitrun-gil",
+    "name": "Gil",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-gil.glb",
+    "size": 920276,
+    "hash": "07c604477325ef41",
+    "renderScale": 0.8699
+  },
+  {
+    "id": "hitrun-grandpa",
+    "name": "Grampa",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-grandpa.glb",
+    "size": 959232,
+    "hash": "05cfdba492b7fdb2",
+    "renderScale": 0.8407
+  },
+  {
+    "id": "hitrun-h_donut",
+    "name": "Homer \u2014 Donut",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-h_donut.glb",
+    "size": 944044,
+    "hash": "60d302413700f686",
+    "renderScale": 0.6527
+  },
+  {
+    "id": "hitrun-h_evil",
+    "name": "Homer \u2014 Evil",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-h_evil.glb",
+    "size": 902608,
+    "hash": "584509fcfafaf267",
+    "renderScale": 0.7491
+  },
+  {
+    "id": "hitrun-h_fat",
+    "name": "Homer \u2014 Muumuu",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-h_fat.glb",
+    "size": 938916,
+    "hash": "dd6b664b63f62eaf",
+    "renderScale": 0.7529
+  },
+  {
+    "id": "hitrun-h_scuzzy",
+    "name": "Homer \u2014 Scuzzy",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-h_scuzzy.glb",
+    "size": 912604,
+    "hash": "ec2dc12c4037d179",
+    "renderScale": 0.762
+  },
+  {
+    "id": "hitrun-h_stcrobe",
+    "name": "Homer \u2014 Stonecutter",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-h_stcrobe.glb",
+    "size": 918228,
+    "hash": "d86f6a1a61fcc44b",
+    "renderScale": 0.6992
+  },
+  {
+    "id": "hitrun-h_undrwr",
+    "name": "Homer \u2014 Underwear",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-h_undrwr.glb",
+    "size": 911460,
+    "hash": "c1236c0addec277c",
+    "renderScale": 0.7503
+  },
+  {
+    "id": "hitrun-hibbert",
+    "name": "Hibbert",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-hibbert.glb",
+    "size": 884852,
+    "hash": "c9e9f9a743eb168a",
+    "renderScale": 0.9086
+  },
+  {
+    "id": "hitrun-jasper",
+    "name": "Jasper",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-jasper.glb",
+    "size": 917452,
+    "hash": "94061a5b9ba72bef",
+    "renderScale": 0.9121
+  },
+  {
+    "id": "hitrun-jimbo",
+    "name": "Jimbo",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-jimbo.glb",
+    "size": 885564,
+    "hash": "c1f26f30b51898ad",
+    "renderScale": 0.5957
+  },
+  {
+    "id": "hitrun-kearney",
+    "name": "Kearney",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-kearney.glb",
+    "size": 891800,
+    "hash": "18be93b9f6de2443",
+    "renderScale": 0.378
+  },
+  {
+    "id": "hitrun-krusty",
+    "name": "Krusty",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-krusty.glb",
+    "size": 923720,
+    "hash": "fb1a2f07b70c759d",
+    "renderScale": 0.7286
+  },
+  {
+    "id": "hitrun-l_cool",
+    "name": "Lisa \u2014 Cool",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-l_cool.glb",
+    "size": 929224,
+    "hash": "e2a3b6aaffc6f13e",
+    "renderScale": 0.5326
+  },
+  {
+    "id": "hitrun-l_florida",
+    "name": "Lisa \u2014 Florida",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-l_florida.glb",
+    "size": 945540,
+    "hash": "8e5fb2c1dcd91cc0",
+    "renderScale": 0.4276
+  },
+  {
+    "id": "hitrun-l_jersey",
+    "name": "Lisa \u2014 Hockey",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-l_jersey.glb",
+    "size": 906900,
+    "hash": "195403c89154da73",
+    "renderScale": 0.5146
+  },
+  {
+    "id": "hitrun-lenny",
+    "name": "Lenny",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-lenny.glb",
+    "size": 909688,
+    "hash": "ddc0a1ab46c29915",
+    "renderScale": 0.8319
+  },
+  {
+    "id": "hitrun-lou",
+    "name": "Lou",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-lou.glb",
+    "size": 889432,
+    "hash": "47f946cc522cc108",
+    "renderScale": 0.8213
+  },
+  {
+    "id": "hitrun-louie",
+    "name": "Louie",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-louie.glb",
+    "size": 882060,
+    "hash": "e1a107d61999de8b",
+    "renderScale": 1.0579
+  },
+  {
+    "id": "hitrun-m_pink",
+    "name": "Marge \u2014 Pink",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-m_pink.glb",
+    "size": 928112,
+    "hash": "9e92070030a1f9de",
+    "renderScale": 0.8234
+  },
+  {
+    "id": "hitrun-m_police",
+    "name": "Marge \u2014 Police",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-m_police.glb",
+    "size": 923348,
+    "hash": "3300e8b5055325f1",
+    "renderScale": 1.0362
+  },
+  {
+    "id": "hitrun-m_prison",
+    "name": "Marge \u2014 Prison",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-m_prison.glb",
+    "size": 934408,
+    "hash": "3085b5781900864e",
+    "renderScale": 0.825
+  },
+  {
+    "id": "hitrun-milhouse",
+    "name": "Milhouse",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-milhouse.glb",
+    "size": 899788,
+    "hash": "8e439d218c37fb39",
+    "renderScale": 0.4914
+  },
+  {
+    "id": "hitrun-moe",
+    "name": "Moe",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-moe.glb",
+    "size": 919056,
+    "hash": "f96af4717e871122",
+    "renderScale": 0.8836
+  },
+  {
+    "id": "hitrun-moleman",
+    "name": "Moleman",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-moleman.glb",
+    "size": 879868,
+    "hash": "d667f0863ffc3d08",
+    "renderScale": 0.8328
+  },
+  {
+    "id": "hitrun-ned",
+    "name": "Ned",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-ned.glb",
+    "size": 910096,
+    "hash": "e59e0e6a655a734a",
+    "renderScale": 0.8413
+  },
+  {
+    "id": "hitrun-nelson",
+    "name": "Nelson",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-nelson.glb",
+    "size": 887928,
+    "hash": "85bfc50e1e3851e7",
+    "renderScale": 0.5232
+  },
+  {
+    "id": "hitrun-nriviera",
+    "name": "Dr. Nick",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-nriviera.glb",
+    "size": 889552,
+    "hash": "9fa13dd80d1a810c",
+    "renderScale": 0.7991
+  },
+  {
+    "id": "hitrun-otto",
+    "name": "Otto",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-otto.glb",
+    "size": 919780,
+    "hash": "7a776304598a221d",
+    "renderScale": 0.7416
+  },
+  {
+    "id": "hitrun-patty",
+    "name": "Patty",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-patty.glb",
+    "size": 882872,
+    "hash": "4a4656f9ac1d5d74",
+    "renderScale": 0.7581
+  },
+  {
+    "id": "hitrun-ralph",
+    "name": "Ralph",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-ralph.glb",
+    "size": 943664,
+    "hash": "6ef214f19e69b030",
+    "renderScale": 0.5537
+  },
+  {
+    "id": "hitrun-selma",
+    "name": "Selma",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-selma.glb",
+    "size": 911660,
+    "hash": "95da7c3c0d677e88",
+    "renderScale": 0.782
+  },
+  {
+    "id": "hitrun-skinner",
+    "name": "Skinner",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-skinner.glb",
+    "size": 889128,
+    "hash": "19597fd2d164717e",
+    "renderScale": 0.8736
+  },
+  {
+    "id": "hitrun-smithers",
+    "name": "Smithers",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-smithers.glb",
+    "size": 909460,
+    "hash": "9ec6804577be413d",
+    "renderScale": 0.8427
+  },
+  {
+    "id": "hitrun-snake",
+    "name": "Snake",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-snake.glb",
+    "size": 942456,
+    "hash": "54b740511e9ed673",
+    "renderScale": 0.8621
+  },
+  {
+    "id": "hitrun-teen",
+    "name": "Squeaky-Voiced Teen",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-teen.glb",
+    "size": 924608,
+    "hash": "0505486b24f4bcbc",
+    "renderScale": 0.7898
+  },
+  {
+    "id": "hitrun-wiggum",
+    "name": "Wiggum",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-wiggum.glb",
+    "size": 928636,
+    "hash": "2062b1149e12002f",
+    "renderScale": 0.7299
+  },
+  {
+    "id": "hitrun-willie",
+    "name": "Willie",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-willie.glb",
+    "size": 894568,
+    "hash": "ffad599f6b2cdf5e",
+    "renderScale": 0.8383
+  },
+  {
+    "id": "hitrun-zfem1",
+    "name": "Zombie Woman",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-zfem1.glb",
+    "size": 821312,
+    "hash": "da3054bce751cba1",
+    "renderScale": 0.8392
+  },
+  {
+    "id": "hitrun-zmale1",
+    "name": "Zombie Man",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-zmale1.glb",
+    "size": 831384,
+    "hash": "441c64089f16be5d",
+    "renderScale": 0.8992
+  },
+  {
+    "id": "hitrun-zmale3",
+    "name": "Zombie Man 2",
+    "group": "Hit & Run",
+    "file": "characters/hitrun-zmale3.glb",
+    "size": 819824,
+    "hash": "4644b016cccb0ff0",
+    "renderScale": 0.9112
+  }
+]

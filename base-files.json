@@ -17,11 +17,6 @@
       "size": 20971520
     },
     {
-      "path": "characters.json",
-      "sha256": "fdb7ee9afef699f35011610375bf72ada2604f927482a6fc720d75bbf89e9c4b",
-      "size": 15197
-    },
-    {
       "path": "Springfield-CREDITS.txt",
       "sha256": "834f88ebbf1d751aecda8bf483f3380afc4c1f7a072d9d259c6a80d3cc1169c0",
       "size": 402
@@ -440,11 +435,6 @@
       "path": "characters/hitrun-apu.rig.json",
       "sha256": "6988d00e1da8b615ee9c6c779e569d4fd111ac46cc87d42cf8df0cdaee039f4c",
       "size": 514
-    },
-    {
-      "path": "characters/CREDITS.txt",
-      "sha256": "9784b7e8b8e424560567e0d61ea32658e2a8758c4f413441585cfdbd9e1bf19f",
-      "size": 5073
     },
     {
       "path": "characters/bugs-bunny.glb",
