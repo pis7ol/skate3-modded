@@ -19,7 +19,7 @@ def download(item, origin=None):
    time.sleep(2*(attempt+1))
 with ThreadPoolExecutor(max_workers=6) as executor:
  for index,name in enumerate(executor.map(download,manifest['files']),1):print(f'{index}/{len(manifest["files"])} {name}',flush=True)
-for name in ['index.html','loader.js','characters.js','pack.json','characters.json','audio-settings.js','cape-motion.js']:shutil.copy2(name,root/name)
+for name in ['index.html','loader.js','characters.js','pack.json','characters.json','audio-settings.js']:shutil.copy2(name,root/name)
 ui=root/'assets/reference-ui';ui.mkdir(parents=True,exist_ok=True)
 for name in Path('.').glob('ui-*.png'):shutil.copy2(name,ui/name.name.removeprefix('ui-'))
 shutil.copy2('reference-CREDITS.json',root/'assets/reference-CREDITS.json');(root/'.nojekyll').touch()

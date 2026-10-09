@@ -56,20 +56,6 @@
     "hash": "f335e120cb975af1"
   },
   {
-    "id": "mandalorian",
-    "name": "Mandalorian \u2014 Armored",
-    "file": "characters/mandalorian.glb",
-    "size": 13886020,
-    "hash": "45541513d371127f"
-  },
-  {
-    "id": "spiderman-future",
-    "name": "Spider-Man \u2014 Future Foundation",
-    "file": "characters/spiderman-future.glb",
-    "size": 6877920,
-    "hash": "859e034168bea456"
-  },
-  {
     "id": "caseoh",
     "name": "CaseOh \u2014 BIG Version",
     "file": "characters/caseoh.glb",

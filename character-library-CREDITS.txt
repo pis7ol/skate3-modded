@@ -87,9 +87,4 @@ Skating skeleton conversion, model fitting and size adjustments added for this g
 New characters:
 CaseOh (BIG Version) by ShreksEmpyre. Sketchfab Standard.
 https://sketchfab.com/3d-models/caseoh-big-version-954cdfbf6dd24a52b2e8e7afa53f4811
-Fortnite Spider-Man Future Foundation Skin by FN_Requests. CC BY 4.0.
-https://sketchfab.com/3d-models/fortnite-spider-man-future-foundation-skin-e21d6891c9c44c99aa587f2dcbbdbe30
-Mandalorian Armored Fortnite Skin by Neut2000. CC BY 4.0.
-https://sketchfab.com/3d-models/mandalorian-armored-fortnite-skin-83511a44e7464c3d8cb976c60b621161
-CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
-Models adapted to the game skeleton; skating weights and cape flutter added.
+Model adapted to the game skeleton with skating skin weights.
