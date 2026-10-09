@@ -1,6 +1,6 @@
 # skate3 modded
 
-[Play skate3](https://pis7ol.github.io/skate3-modded/)
+[Play skate3](https://pis7ol.github.io/skatespringfield/)
 
 The GitHub Pages build recovers the existing release assets from GitHub Pages, verifies each file against its SHA-256, then applies the loading screen and menu artwork in this repository. The former Sites asset source is no longer required.
 
