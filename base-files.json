@@ -822,11 +822,6 @@
       "size": 919780
     },
     {
-      "path": ".openai/hosting.json",
-      "sha256": "44b346d1c6749b27f9c17e398c3fe97809c28b9aff5a9670da73ac54842ddd80",
-      "size": 106
-    },
-    {
       "path": "maps/SimpsonsDowntown.skate",
       "sha256": "fc2133d89c120052bb4942484109e81c4d5e80f5941d6255ce98b5d3ea812ce1",
       "size": 5283541
